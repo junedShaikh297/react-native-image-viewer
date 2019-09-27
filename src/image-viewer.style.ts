@@ -66,7 +66,7 @@ export const simpleStyle: {
     backgroundColor: 'transparent'
   },
   countText: {
-    color: 'white',
+    color: '#40549D',
     fontSize: 16,
     backgroundColor: 'transparent',
     textShadowColor: 'rgba(0, 0, 0, 0.3)',
